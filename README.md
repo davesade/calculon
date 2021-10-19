@@ -1,6 +1,8 @@
 Kalkulon - počítací bot pro Discord
 ===================================
 
+![Kalkulon](./calculon-foto.jpeg)
+
 V rámci projektu [Meet and Code](https://meet-and-code.org/cz/cs/) jsme připravili výukovou hodinku s tématem "Jak si napsat Discord bota". Motivací projektu je přivést děti zvyklé na komunikaci přes Discord (při hraní Minecraftu a dalších her) k myšlence vytváření vlastních botů, aby zkrátka nabyli (sebe)vědomí, že si mohou integrovat vlastní funkcionalitu a nespoléhat se jen na hotová či placená řešení.
 
 Záznam z přednášky je k dispozici na [Youtube](https://www.youtube.com/watch?v=CDp0MGB9u0U&ab_channel=DavidKubec) a vřele doporučuji si projít celým procesem psaní.
@@ -31,5 +33,7 @@ Jako každý kód, i Kalkulona můžeme donekonečna rozvíjet. Pro zamyšlení 
 
 1) Co se stane, když někdo pošle zadání s dvěma či více operátory? (`Kolik je 1-+2?`). Jak ošetřit takový problém?
 2) Program momentálně neobsahuje žádný pořádný error handling - kde je vhodné místo pro `try {} catch`?
+
+![Discord screenshot](./discord-screenshot.png)
 
 Ohlasy prosím do issues tohoto repozitáře, díky!
